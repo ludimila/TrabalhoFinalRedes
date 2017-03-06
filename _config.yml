@@ -1,0 +1,8 @@
+title: Fully Automatic Installation
+description: FAI
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-mentions
